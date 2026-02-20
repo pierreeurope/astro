@@ -1,5 +1,17 @@
 # astro
 
+## 6.0.0-beta.15
+
+### Patch Changes
+
+- [#15565](https://github.com/withastro/astro/pull/15565) [`30cd6db`](https://github.com/withastro/astro/commit/30cd6dbebe771efb6f71dcff7e6b44026fad6797) Thanks [@ematipico](https://github.com/ematipico)! - Fixes an issue where the use of the Astro internal logger couldn't work with Cloudflare Vite plugin.
+
+- [#15580](https://github.com/withastro/astro/pull/15580) [`a92333c`](https://github.com/withastro/astro/commit/a92333cb48291008dc08afd0da9e1bb349443934) Thanks [@ematipico](https://github.com/ematipico)! - Fixes a build error when generating projects with a large number of static routes
+
+- [#15565](https://github.com/withastro/astro/pull/15565) [`30cd6db`](https://github.com/withastro/astro/commit/30cd6dbebe771efb6f71dcff7e6b44026fad6797) Thanks [@ematipico](https://github.com/ematipico)! - Fixes an issue where the use of the `Code` component would result in an unexpected error.
+
+- [#15565](https://github.com/withastro/astro/pull/15565) [`30cd6db`](https://github.com/withastro/astro/commit/30cd6dbebe771efb6f71dcff7e6b44026fad6797) Thanks [@ematipico](https://github.com/ematipico)! - Fixes an issue where the new Astro v6 development server didn't log anything when navigating the pages.
+
 ## 6.0.0-beta.14
 
 ### Patch Changes
